@@ -14,9 +14,9 @@ sections:
       - title: Burgundy
         price: Tee Leash
         details: KOVA Collection 1
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Limited edition **Burgundy** variant of our Tee Leash. Anchors your
+          tee in place *and* doubles as an accessory for your golf bag.
         features:
           - Feature one
           - Feature two

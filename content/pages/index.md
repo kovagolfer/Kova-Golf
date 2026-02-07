@@ -156,7 +156,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Your contribution
       color: text-primary
       styles:
         self:

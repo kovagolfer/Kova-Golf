@@ -182,7 +182,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Faux Fur Throw
-        subtitle: $9
+        subtitle: $12
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg

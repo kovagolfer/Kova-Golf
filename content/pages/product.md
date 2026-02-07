@@ -23,7 +23,6 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/FullSizeRender.jpeg
           altText: Pricing plan 1
           type: ImageBlock
         actions:

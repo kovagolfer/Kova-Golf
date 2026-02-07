@@ -124,7 +124,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: '2'
+      - title: 2+
         subtitle: Uses
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

@@ -71,10 +71,10 @@ sections:
       - type: FeaturedItem
         title: 5 Billion
         subtitle: Tees Annually
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          5 billions tees are sent to the landfill annually. By using the
+          **Kova**, you can help eliminate waste and better the environment,
+          *one tee at a time*.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

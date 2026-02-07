@@ -8,10 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >+
-      # Our *precision-designed* **tee leash** anchors your tee securely without
+    text: >
+      Our *precision-designed* **tee leash** anchors your tee securely without
       interfering with your swing, ensuring it remains in the vicinity shot
-      after shot. 
+      after shot.
 
 
       The result is a seamless on-course experience that eliminates the hassle
@@ -19,7 +19,6 @@ sections:
       Engineered for performance and designed with intention, Kova enhances
       efficiency while maintaining the standards and appearance the game
       demands.
-
     actions:
       - label: Get started
         altText: ''

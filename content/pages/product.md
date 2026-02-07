@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: No more searching for your tee.
+    subtitle: No more time spent searching for your tee.
     plans:
       - title: Developers
         price: Free

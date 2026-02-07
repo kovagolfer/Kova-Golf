@@ -218,7 +218,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: 'Tee Leash: Blue'
         subtitle: $12
         image:
           type: ImageBlock

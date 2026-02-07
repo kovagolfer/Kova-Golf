@@ -104,7 +104,6 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/FullSizeRender.jpeg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock

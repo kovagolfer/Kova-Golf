@@ -7,7 +7,7 @@ sections:
       text: Reduce the Hassle Eliminate Waste
       color: text-dark
       type: TitleBlock
-    subtitle: Introducing the Kova
+    subtitle: Introducing the Tee Leash
     text: >
       Our *precision-designed* **tee leash** anchors your tee securely without
       interfering with your swing, ensuring it remains in the vicinity shot

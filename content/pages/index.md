@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Reduce the hassle, eliminate waste
+      text: Reduce the Hassle, Eliminate Waste
       color: text-dark
       type: TitleBlock
     subtitle: Introducing the Kova

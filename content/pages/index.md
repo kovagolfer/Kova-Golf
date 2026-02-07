@@ -127,11 +127,12 @@ sections:
       - title: 2+
         subtitle: Different Purposes
         text: >
-          The Tee Leash's primary purpose is to serve as an anchor for your tee.
+          The Tee Leash's *primary* purpose is to serve as an anchor for your
+          tee.
 
 
-          Simultaneously, it doubles as a fashionable accessory that can be
-          attached to your golf bag, car, backpack, or any other gadget.
+          Simultaneously, it ***doubles*** as a fashionable accessory that can
+          be attached to your golf bag, car, backpack, or any other gadget.
         image:
           altText: Featured icon three
           elementId: ''

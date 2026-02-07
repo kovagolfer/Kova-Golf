@@ -100,8 +100,8 @@ sections:
       - title: 4x
         subtitle: Color Variations
         text: >
-          Our Tee Leashes come in limited edition colors: Burgundy, Blue, Onyx,
-          Beige
+          Our Tee Leashes come in limited edition colors: **Burgundy, Blue,
+          Onyx, Beige**
 
 
           Annual collaborations currently in place with plans for new color

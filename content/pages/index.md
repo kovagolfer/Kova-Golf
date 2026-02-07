@@ -107,7 +107,6 @@ sections:
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
-          url: /images/IMG_2143.jpeg
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:

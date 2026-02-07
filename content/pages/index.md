@@ -123,6 +123,7 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
+            borderColor: border-neutralAlt
         type: FeaturedItem
       - title: 2+
         subtitle: Different Purposes

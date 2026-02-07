@@ -99,10 +99,9 @@ sections:
               borderRadius: x-large
       - title: 4x
         subtitle: Color Variations
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our Tee Leashes come in limited edition colors: Burgundy, Blue, Onyx,
+          Beige
         image:
           altText: Featured icon two
           elementId: ''

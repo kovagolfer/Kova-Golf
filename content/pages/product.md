@@ -3,7 +3,7 @@ title: Product
 slug: product
 sections:
   - title:
-      text: Flexible Pricing
+      text: Tee Leash
       color: text-dark
       styles:
         self:

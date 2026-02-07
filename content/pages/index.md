@@ -156,7 +156,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Let's talk numbers...
+      label: Let's talk numbers
       color: text-primary
       styles:
         self:

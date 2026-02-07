@@ -22,7 +22,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /Tee_Leash
+        url: /Pricing
         showIcon: false
         icon: arrowRight
         iconPosition: right

@@ -158,7 +158,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Tee Leash: Burgundy'
-        subtitle: $12
+        subtitle: $1
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg

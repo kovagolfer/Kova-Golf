@@ -205,7 +205,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: 'Tee Leash: Onyx'
         subtitle: $12
         image:
           type: ImageBlock

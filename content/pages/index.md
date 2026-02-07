@@ -8,10 +8,18 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      # Our *precision-designed* **tee leash** anchors your tee securely without
+      interfering with your swing, ensuring it remains in the vicinity shot
+      after shot. 
+
+
+      The result is a seamless on-course experience that eliminates the hassle
+      of searching for your tee while doubling as a refined, stylish accessory.
+      Engineered for performance and designed with intention, Kova enhances
+      efficiency while maintaining the standards and appearance the game
+      demands.
+
     actions:
       - label: Get started
         altText: ''
@@ -408,7 +416,7 @@ sections:
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: Maria Walters, Company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -435,9 +443,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+        subtitle: John Doe, Company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -464,9 +473,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: Maria Walters, Company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -496,7 +506,7 @@ sections:
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
+        subtitle: Maria Walters, Company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -523,9 +533,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
+        subtitle: Jane Walters, Company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -552,9 +563,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
+        subtitle: Jane Doe, Company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -646,8 +658,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image

@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Burgundy
         price: Tee Leash
-        details: No credit card required
+        details: KOVA Collection 1
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.

@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Tired of searching for your tee? We got you.
     plans:
-      - title: Developers
+      - title: Burgundy
         price: Free
         details: No credit card required
         description: >-

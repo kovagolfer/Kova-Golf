@@ -66,7 +66,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Did you know that?
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: 5 Billion

@@ -72,9 +72,9 @@ sections:
         title: 5 Billion
         subtitle: Tees Annually
         text: >
-          5 billions tees are sent to the landfill annually. By using the
-          **Kova**, you can help eliminate waste and better the environment,
-          *one tee at a time*.
+          5 billions tees are sent to the landfill annually. By using the **Tee
+          Leash**, you can help eliminate waste and better the environment, *one
+          tee at a time*.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

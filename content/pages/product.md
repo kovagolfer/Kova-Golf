@@ -181,7 +181,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: 'Tee Leash: Beige'
         subtitle: $12
         image:
           type: ImageBlock

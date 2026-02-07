@@ -44,7 +44,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: FEATURED
+      label: KOVA COLLECTION 1
       color: text-primary
       type: Badge
     elementId: ''

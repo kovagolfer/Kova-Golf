@@ -22,7 +22,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /Product
+        url: /pricing
         showIcon: false
         icon: arrowRight
         iconPosition: right

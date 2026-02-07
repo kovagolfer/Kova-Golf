@@ -13,8 +13,8 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Product",
+            "url": "/product",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

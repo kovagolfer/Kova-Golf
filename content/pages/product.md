@@ -219,7 +219,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
-        subtitle: $117
+        subtitle: $12
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg

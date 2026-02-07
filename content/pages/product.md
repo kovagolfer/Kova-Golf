@@ -157,7 +157,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: 'Tee Leash: Burgundy'
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock

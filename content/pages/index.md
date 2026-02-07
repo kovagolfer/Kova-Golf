@@ -107,6 +107,7 @@ sections:
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
+          url: /images/FullSizeRender.jpeg
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:

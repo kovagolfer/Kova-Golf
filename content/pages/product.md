@@ -165,6 +165,7 @@ sections:
           styles:
             self:
               borderRadius: medium
+          url: /images/FullSizeRender.jpeg
         actions: []
         colors: bg-light-fg-dark
         styles:

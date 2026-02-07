@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Reduce the hassle, eliminate waste, follow golf etiquette
       color: text-dark
       type: TitleBlock
     subtitle: Introducing the Kova

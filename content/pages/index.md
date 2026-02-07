@@ -93,7 +93,6 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/FullSizeRender.jpeg
           styles:
             self:
               borderRadius: x-large

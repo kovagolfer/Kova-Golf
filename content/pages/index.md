@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Reduce the hassle, eliminate waste, follow golf etiquette
+      text: Reduce the hassle, eliminate waste
       color: text-dark
       type: TitleBlock
     subtitle: Introducing the Kova

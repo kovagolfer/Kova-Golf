@@ -701,7 +701,7 @@ sections:
       type: TitleBlock
     subtitle: Got any questions?
     text: >
-      Send us an email through the contact form. Our team will get back to you
+      Send us an email through our contact form. Our team will get back to you
       shortly.
     media:
       fields:

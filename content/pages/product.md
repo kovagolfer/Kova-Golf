@@ -12,7 +12,7 @@ sections:
     subtitle: Tired of searching for your tee? We got you.
     plans:
       - title: Burgundy
-        price: Free
+        price: Tee Leash
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem

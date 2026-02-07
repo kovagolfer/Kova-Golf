@@ -127,7 +127,6 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/favicon.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
